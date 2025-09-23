@@ -1,8 +1,3 @@
-p {
-  Color: 78204A
-  Font-Family: 
-  Line-height:
-}
 
 /* Light orange background with bat decorations */
 
@@ -16,3 +11,4 @@ body {
   background-position: center;
   font-family: sans-serif;
 }
+
