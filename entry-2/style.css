@@ -2,8 +2,8 @@
 /* Light orange background with bat decorations */
 
 body {
-  margin: 0;
-  padding: 0;
+  margin: 10;
+  padding: 10;
   background-color: #FFE5B4; /* Light orange */
   background-image: url('bat-silhouette.png');
   background-repeat: repeat;
@@ -11,6 +11,7 @@ body {
   background-position: center;
   font-family: sans-serif;
 }
+
 
 
 
