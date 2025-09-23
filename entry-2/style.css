@@ -3,3 +3,16 @@ p {
   Font-Family: 
   Line-height:
 }
+
+/* Light orange background with bat decorations */
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #FFE5B4; /* Light orange */
+  background-image: url('bat-silhouette.png');
+  background-repeat: repeat;
+  background-size: 50px 50px; /* Small bats */
+  background-position: center;
+  font-family: sans-serif;
+}
