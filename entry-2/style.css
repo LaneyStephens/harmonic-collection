@@ -10,7 +10,11 @@ body {
   background-size: 50px 50px; /* Small bats */
   background-position: center;
   font-family: Times-serif;
+  h1 {
+      font-size: 32px; /* Sets heading 1 text to 32 pixels */
+    }
 }
+
 
 
 
