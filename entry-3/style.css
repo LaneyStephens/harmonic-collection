@@ -1,0 +1,30 @@
+.header {
+  padding: 2% 1%;
+}
+
+/* Style the header links */
+header a {
+  float: center;
+  color: black;
+  text-align: center;
+  padding: 12px;
+  text-decoration: none;
+  font-size: 10%;
+  line-height: 10%;
+  border-radius: 4%;
+
+  
+body {
+  margin: 3%;
+  padding: 3%;
+  background-color: #fffdf8; 
+  background-position: center;
+  font-family: Times-serif;
+  h1 {
+      font-size: 32px; /* Sets heading 1 text to 32 pixels */
+    }
+    h2 {
+      font-size: 25px; /* Sets heading 1 text to 32 pixels */
+    }
+}
+}
