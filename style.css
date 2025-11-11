@@ -1,3 +1,48 @@
+/* Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Body Styling */
 body {
-  font-family: sans-serif;
+  background-color: #fce1bb;
+  font-family: 'Georgia', serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+/* Main Card */
+.invitation-card {
+  border: 4px solid #f7931e;
+  padding: 60px 40px;
+  background-color: #fce1bb;
+  max-width: 800px;
+  width: 90%;
+  text-align: center;
+  position: relative;
+}
+
+/* Oval border around text */
+.oval-border {
+  border: 3px solid #f7931e;
+  border-radius: 50%;
+  padding: 60px 20px;
+}
+
+/* Main Title */
+h1 {
+  font-size: 3rem;
+  color: #f7931e;
+  font-style: italic;
+  margin-bottom: 20px;
+}
+
+/* Subtitle */
+p {
+  font-size: 1.5rem;
+  color: #f7931e;
 }
