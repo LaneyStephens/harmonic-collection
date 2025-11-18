@@ -8,7 +8,7 @@
 /* Body Styling */
 body {
   font-family: 'Georgia', serif;
-  background-color: #e0efff;
+  background-color: rgb(189, 221, 255)
   color: #232996;
   padding: 20px;
   line-height: 1.6;
@@ -19,7 +19,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: #c2e0a6;
+  background-color: rgb(189, 221, 255);
   padding: 20px;
   border: 2px solid #1f4123;
   font-style: italic;
