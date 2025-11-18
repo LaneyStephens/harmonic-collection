@@ -1,6 +1,6 @@
 var recipe = {
-  "title": "Chocolate Chip Cookies",
-  "servings": 4,
+  "title": "Brocoli Balls",
+  "servings": 12,
   "ingredients": [
     { "name": "Butter", "quantity": "1 cup" },
     { "name": "Sugar", "quantity": "1 cup" },
@@ -11,6 +11,7 @@ var recipe = {
     { "name": "Salt", "quantity": "1 tsp" },
     { "name": "Flour", "quantity": "3 cups" },
     { "name": "Chocolate Chips", "quantity": "2 cups" }
+    { "name": "Butterscotch Chips", "quantity": "2 cups" }
   ]
 };
 
