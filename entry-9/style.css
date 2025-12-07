@@ -1,0 +1,70 @@
+/* GLOBAL */
+body {
+    margin: 0;
+    background: #f5e3e3;
+    font-family: "Georgia", serif;
+    color: #732b2b;
+}
+
+/* FIXED TOP BANNER */
+.top-banner {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background: #f5b7b7;
+    text-align: center;
+    padding: 20px 10px;
+    border-bottom: 3px solid #8b3a3a;
+    z-index: 1000;
+}
+
+.top-banner h1 {
+    margin: 0;
+    font-size: 2.2rem;
+    font-style: italic;
+}
+
+.top-banner p {
+    margin: 0;
+    font-size: 1rem;
+    letter-spacing: 1px;
+}
+
+/* MAIN CONTENT (OFFSET FOR FIXED HEADER) */
+.content {
+    padding-top: 150px;
+    max-width: 900px;
+    margin: auto;
+}
+
+/* IMAGE SECTION */
+.image-section img {
+    width: 100%;
+    display: block;
+    border: 4px solid #8b3a3a;
+    border-radius: 4px;
+    margin-bottom: 40px;
+}
+
+/* TEXT SECTION */
+.text-section {
+    text-align: center;
+    padding: 0 20px;
+}
+
+.text-section h2 {
+    font-size: 2.4rem;
+    margin-bottom: 10px;
+}
+
+.text-section hr {
+    width: 60%;
+    margin: 20px auto;
+    border: none;
+    border-top: 2px solid #8b3a3a;
+}
+
+.text-section p {
+    font-size: 1.2rem;
+    line-height: 1.6;
+}
