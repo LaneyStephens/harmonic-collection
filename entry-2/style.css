@@ -1,3 +1,26 @@
+/* FIXED TOP BANNER */
+.top-banner {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background: #f5b7b7;
+    text-align: center;
+    padding: 20px 10px;
+    border-bottom: 3px solid #8b3a3a;
+    z-index: 1000;
+}
+
+.top-banner h1 {
+    margin: 0;
+    font-size: 2.2rem;
+    font-style: italic;
+}
+
+.top-banner p {
+    margin: 0;
+    font-size: 1rem;
+    letter-spacing: 1px;
+}
 
 .header {
   padding: 2% 1%;
