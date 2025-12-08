@@ -1,3 +1,4 @@
+<!DOCTYPE javascript>
 body {
     background-color: #f9c7cf;
     font-family: "Georgia", serif;
