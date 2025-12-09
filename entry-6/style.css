@@ -8,8 +8,8 @@
 /* Body Styling */
 body {
   font-family: 'Georgia', serif;
-  background-color: #e8f4dc;
-  color: #1f4123;
+  background-color: #f4dcdc;
+  color: #411f1f;
   padding: 20px;
   line-height: 1.6;
 }
@@ -19,12 +19,12 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: #c2e0a6;
+  background-color: #dfa4a4;
   padding: 20px;
-  border: 2px solid #1f4123;
+  border: 2px solid #411f1f;
   font-style: italic;
   font-size: 1.5rem;
-  color: #1f4123;
+  color: #411f1f;
 }
 
 .invite-banner h1 {
@@ -42,7 +42,7 @@ body {
   margin: 30px auto;
   background-color: #f3fbe8;
   padding: 30px;
-  border: 1px solid #a6c7a2;
+  border: 1px solid #c8a3a3;
   border-radius: 8px;
 }
 
@@ -50,14 +50,14 @@ body {
 .content h2 {
   font-size: 2rem;
   font-weight: bold;
-  color: #1f4123;
+  color: #411f1f;
   margin-bottom: 10px;
 }
 
 .content h3 {
   font-weight: bold;
   margin-top: 20px;
-  color: #1f4123;
+  color: #411f1f;
 }
 
 /* Paragraphs */
@@ -68,6 +68,6 @@ body {
 /* Horizontal Line */
 hr {
   border: none;
-  border-top: 1px solid #1f4123;
+  border-top: 1px solid #411f1f;
   margin: 15px 0;
 }
