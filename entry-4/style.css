@@ -1,0 +1,75 @@
+/* Basic Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Body Styling */
+body {
+  font-family: 'Georgia', serif;
+  background-color: #e8f4dc;
+  color: #1f4123;
+  padding: 20px;
+  line-height: 1.6;
+}
+
+/* Header Banner */
+.invite-banner {
+;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #c2e0a6;
+  padding: 20px;
+  border: 2px solid #1f4123;
+  font-style: italic;
+  font-size: 1.5rem;
+  color: #1f4123;
+}
+
+.invite-banner h1 {
+  margin: 0 20px;
+  font-family: 'Georgia', cursive;
+}
+
+.invite-icon {
+  font-size: 1.5rem;
+}
+
+/* Main Content */
+.content {
+  max-width: 700px;
+  margin: 30px auto;
+  background-color: #f3fbe8;
+  padding: 30px;
+  border: 1px solid #a6c7a2;
+  border-radius: 8px;
+}
+
+/* Headings */
+.content h2 {
+text-align: center;;
+  font-size: 2rem;
+  font-weight: bold;
+  color: #1f4123;
+  margin-bottom: 10px;
+}
+
+.content h3 {
+  font-weight: bold;
+  margin-top: 20px;
+  color: #1f4123;
+}
+
+/* Paragraphs */
+.content p {
+  margin-top: 5px;
+}
+
+/* Horizontal Line */
+hr {
+  border: none;
+  border-top: 1px solid #1f4123;
+  margin: 15px 0;
+}
